@@ -11,9 +11,16 @@
 
 零知识证明（Zero-Knowledge Proof）就是用来解决这个问题：**如何在不暴露数据本身的情况下，证明一件事是真的。** 过去，零知识证明(ZK)更多停留在理论研究和密码学系统中，开发门槛高、工程复杂，很难真正用于日常应用开发。但现在情况正在改变。随着基础设施逐渐成熟，ZK 正在从"密码学工具"走向"可用的开发能力"，开始真正进入可以构建应用的阶段。
 
-因此，OpenBuild 联合 Aleo 推出**《Aleo 101：从零开始，写你的第一个隐私应用》**训练营，帮助开发者从 0 开始真正理解并掌握 ZK（零知识证明）开发。Bootcamp 将于 5 月 11 日正式开始，全程手把手带你从环境搭建到合约部署，最终完成并构建出你的第一个 Aleo ZK 应用。
+![bootcamp](public/bootcamp.jpg)
 
-![bootcamp](https://mmbiz.qpic.cn/sz_mmbiz_jpg/jeD1CeLupPlw9ofhGV0gCATicSpRN4ywF4Blne5PTiakFhLf2oBIzF55SgtAUuic6Deuajjh9Irz1c7NvnzZdLFTJQAwCSSib2ObGXXBsubrpXI/640?wx_fmt=jpeg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=1)
+---
+
+### [Github Discussion](https://github.com/openbuildxyz/Aleo-101-Bootcamp/discussions) 使用方法
+
+| Categories | Description |
+| ------------------------------------------------------------ | ----------------------------- |
+| [🍕Materials](https://github.com/openbuildxyz/Aleo-101-Bootcamp/discussions/categories/materials) | 课外资料/课堂笔记（欢迎贡献） |
+| [🙏 Q&A](https://github.com/openbuildxyz/Aleo-101-Bootcamp/discussions/categories/q-a) | 提问 / 知识答疑 |
 
 ---
 
